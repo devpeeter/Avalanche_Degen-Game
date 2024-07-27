@@ -1,12 +1,12 @@
  
 # DegenToken
-Degen Token is a token that players in the game can earn and then exchanged the token for rewards in the in-game store.
+DegenToken is a token that players in the game can earn and then exchange the token for rewards in the in-game store.
 
 ## Description
 This is an ERC20 upgrade, which means it has all the functions of the ERC20 and also other functions.
-It is meant to be a gamer token, where players of the game can earn the token, use the token for in-game transaction and also be able to send it to each other. Players can earn token, check their balance, transfer token, and redeem items on the platform witht their token. 
+It is meant to be a gamer token, where players of the game can earn the token, use the token for in-game transactions and also be able to send it to each other. Players can earn tokens, check their balance, transfer tokens, and redeem items on the platform with their tokens. 
 
-Aside from the normal ERC20 functions, it has additional 10 functions:
+Aside from the normal ERC20 functions, it has an additional 10 functions:
 
 - playerRegister(string memory _playerName): allows players to register on the platform; without registration, players cannot access the platform.
 - mint(address _to, uint256 _amount): allows the owner of the contract to mint (_amount) token to player (_to).
