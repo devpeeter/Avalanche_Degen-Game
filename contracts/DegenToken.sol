@@ -156,6 +156,3 @@ contract DegenToken is ERC20, Ownable {
         emit PropRedeemed(msg.sender, _propId, _gameProp.propName);
     }
 }
-//0x5f649f8ff0cd9201a37975ebc604b955353474fff3cbecc6dec8308ab68f4e92
-//0x76f5f907b606e4cdc6f91b3d4d30e9590ac243d5e7dbd66fea53666fbc907462
-//0x74df9e1dc16c096da37a8b3924819f887c40cc3da095bc0dd517fb1eda04bf04

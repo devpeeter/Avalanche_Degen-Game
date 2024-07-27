@@ -1,5 +1,5 @@
  
-# Degen Token
+# DegenToken
 Degen Token is a token that players in the game can earn and then exchanged the token for rewards in the in-game store.
 
 ## Description
@@ -20,7 +20,7 @@ Aside from the normal ERC20 functions, it has additional 10 functions:
 - getGameItem(bytes32 _itemId): returns an item with item id (_itemId).
 
 ## Getting Started
-```git clone https://github.com/devfola/Meta-Degen.git``` to clone the project. 
+```git clone https://github.com/devpeeter/Avalanche_Degen-Game``` to clone the project. 
 After cloning the github, do the following to get the code running on your computer.
 
 - Inside the project directory, in the terminal type: npm i
@@ -31,7 +31,7 @@ After cloning the github, do the following to get the code running on your compu
 - To interact with the functions in the contract, you can create another file in the script folder to write your interaction scripts.
 
 ## Authors
-Warith Adebowale
+Peter Fatukasi
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
